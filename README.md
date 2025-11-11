@@ -105,8 +105,7 @@ The design is fully modular and written in **Verilog HDL**, following a pipeline
 B.Tech Electronics & Communication Engineering  
 SASTRA Deemed University
 Role: Coding, Hardware integration, and Filter designing.
-
-🔗 [GitHub Profile](https://github.com/av1429)
+🔗 [Aravinthvasan S' GitHub Profile](https://github.com/av1429)
 
 - **Saravana Balaji S** - Testing and documentation.
 - **Ashwinramasamy P** - Testing and documentation.
