@@ -101,12 +101,15 @@ The design is fully modular and written in **Verilog HDL**, following a pipeline
 ---
 
 ## 👨‍💻 Author
-**Aravinthvasan S**  
+- **Aravinthvasan S**  
 B.Tech Electronics & Communication Engineering  
 SASTRA Deemed University  
 
 🔗 [GitHub Profile](https://github.com/av1429)
 
+- **Saravana Balaji S**
+- **Ashwinramasamy P**
+- 
 ---
 
 ## 🪪 License
