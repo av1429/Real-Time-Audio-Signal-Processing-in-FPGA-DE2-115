@@ -105,7 +105,7 @@ The design is fully modular and written in **Verilog HDL**, following a pipeline
 B.Tech Electronics & Communication Engineering  
 SASTRA Deemed University  
 
-🔗 [GitHub Profile]((https://github.com/av1429))
+🔗 [GitHub Profile](https://github.com/av1429)
 
 ---
 
